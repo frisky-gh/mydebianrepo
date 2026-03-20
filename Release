@@ -1,0 +1,20 @@
+Architectures: all
+Codename: stable
+Components: main
+Date: Fri, 20 Mar 2026 00:39:05 +0000
+Description: apt repository by frisky-gh
+Label: frisky-gh-repo
+Origin: frisky-gh-repo
+Suite: stable
+MD5Sum:
+ 379462ffe3f97126fca04575e488bdde              766 Packages.gz
+ c8564876c5738c81c63372693599a3a2              191 Release
+SHA1:
+ cf53cd2d77506d351ecee5213ef8f5e2325a7f94              766 Packages.gz
+ bb6ed62ebfc473171a848fcba1b7001ac7672040              191 Release
+SHA256:
+ e83fb8a93bd1842c2b2595da8522998e970634d061673e7c498b913831846e46              766 Packages.gz
+ b49ee21deb0004d616495187a2a25df8edf7d7975a93fb407dd8ee0749537d0b              191 Release
+SHA512:
+ 5c5a4e9474affe4dab9a7df5269a5fe7a89c649c519b35fcc0bc9f02434788ec8d03b2910b50201420031b39ad8b8a2973f03db6913d3c687771fb736178735b              766 Packages.gz
+ 280f303c034743e0435c984ab3dfb8f77c93b6b257c0d5b36d5881fb5dee9cd9a363a564aa7d333a019b2b34f6ce47689fbfbb5c41e8717d484fdd3042f6d374              191 Release

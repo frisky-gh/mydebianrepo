@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: all
+Codename: stable
+Components: main
+Date: Fri, 20 Mar 2026 00:39:05 +0000
+Description: apt repository by frisky-gh
+Label: frisky-gh-repo
+Origin: frisky-gh-repo
+Suite: stable
+MD5Sum:
+ 379462ffe3f97126fca04575e488bdde              766 Packages.gz
+ c8564876c5738c81c63372693599a3a2              191 Release
+SHA1:
+ cf53cd2d77506d351ecee5213ef8f5e2325a7f94              766 Packages.gz
+ bb6ed62ebfc473171a848fcba1b7001ac7672040              191 Release
+SHA256:
+ e83fb8a93bd1842c2b2595da8522998e970634d061673e7c498b913831846e46              766 Packages.gz
+ b49ee21deb0004d616495187a2a25df8edf7d7975a93fb407dd8ee0749537d0b              191 Release
+SHA512:
+ 5c5a4e9474affe4dab9a7df5269a5fe7a89c649c519b35fcc0bc9f02434788ec8d03b2910b50201420031b39ad8b8a2973f03db6913d3c687771fb736178735b              766 Packages.gz
+ 280f303c034743e0435c984ab3dfb8f77c93b6b257c0d5b36d5881fb5dee9cd9a363a564aa7d333a019b2b34f6ce47689fbfbb5c41e8717d484fdd3042f6d374              191 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEZFpdcxd9zg3m+AC32gSUSQlqSlsFAmm8lzQACgkQ2gSUSQlq
+Slu3nAwArshjR1TzNOmNXlWANqc1tgxp2pOMdG2n10dMODDy1gvlcKoCSTL2T3fS
+qEk2KknURLmttS6HRhLCyZkBdw2dd/vDCcNqiymoB4HwzQV+4XDGsIrUJ+DGrKC3
+SgTCpR6D30YiGwOB8omZfynfMcgQtCwKx70O8hZkr0liQwqi5/DuP5kpJI3MgRce
+TI2nezrmZr3WH98JZ+LtUqoum71h/SRxe8I9uygUe/ATkoQMQVqYppCR4cdXZHCd
+HaLA6esoxqwG+3jCoZF0JOlISDEpoDWAUH61f5ceKlzuYiG8J8O9Wbfh2dejlw+4
+s/gGej0Nbl90CvJ1ouX8otMemDfLJtI06vff2ki2VNu7ZHQb4gDCmFN/tgqdBtVN
+ck5OIzQUqSD2h05MVzcuoXwA+2Vq8oR/yUz6GS9MMrPKEenVuKlom1QEHyxIQDpX
+pSbN7/573NuWSBIRaOG8qsBW2NouW82JsSiYi9ccA6eo+JztJ0Slrt0Wq2eRq/Ke
+4ktWKjCo
+=t8Fx
+-----END PGP SIGNATURE-----
