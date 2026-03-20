@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>My Debian APT Repository</title>
+  <style>
+    body { font-family: sans-serif; }
+    table { border-collapse: collapse; }
+    th, td { border: 1px solid #ccc; padding: 4px 8px; }
+    th { background: #f0f0f0; }
+  </style>
+</head>
+<body>
+<h1>My Debian APT Repository</h1>
+
+<p>
+APT repository hosted on GitHub Pages.
+</p>
+
+<h2>APT usage</h2>
+<pre>
+curl -fsSL https://frisky-gh.github.io/mydebianrepo/frisky-gh-repo.asc |
+sudo gpg --dearmor -o /etc/apt/keyrings/frisky-gh-repo.gpg
+
+echo "deb [signed-by=/etc/apt/keyrings/frisky-gh-repo.gpg] \
+https://frisky-gh.github.io/mydebianrepo stable main" |
+sudo tee /etc/apt/sources.list.d/frisky-gh-repo.list
+</pre>
+
+<h2>Packages</h2>
+<table>
+<tr><th>Name</th><th>Version</th><th>Description</th></tr>
+<tr><td>grafana-dashboard-helper</td><td>1.0</td><td><insert up to 60 chars description></td></tr>
+<tr><td>naemon2influx</td><td>1.4-2</td><td>Nagios performance data to Influx DB</td></tr>
+<tr><td>runlevel4finit</td><td>0.0.1-1</td><td>runlevel command for finit environment</td></tr>
+</table>
+</body>
+</html>
