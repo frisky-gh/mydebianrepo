@@ -1,24 +1,24 @@
 Architectures: all
 Codename: stable
 Components: main
-Date: Fri, 20 Mar 2026 09:32:45 +0000
+Date: Fri, 20 Mar 2026 18:13:08 +0000
 Description: apt repository by frisky-gh
 Label: frisky-gh-repo
 Origin: frisky-gh-repo
 Suite: stable
 MD5Sum:
- 18fafbdfa73d2e97f6f0154cbabe7f0e             1419 Packages
- ef2cd5b94d90683bd985d6b9e54e5de7              775 Packages.gz
- 1603cbd5baa2a479dab182fccd6cb2bf              191 Release
+ 3f1a546ee87cb3bfabd9366a9f852e53             1416 Packages
+ 70f5209947a56350753752f79a09a6bf              772 Packages.gz
+ 827922b4173a597f8ac6673fd025e3dc              191 Release
 SHA1:
- 912b9daf517e97b8e86f9e73a68d53abfa4c9f3f             1419 Packages
- 6199728bbf84207ca3a20b1e4f643cef1ebd71a1              775 Packages.gz
- f1a27d393320f48a705b57119b0d2bbce46e9d06              191 Release
+ 2074f0de9ad420e2396724578340c87938637781             1416 Packages
+ e4b4c4f0022e395f1a0395382e3257f96cde0053              772 Packages.gz
+ 8b85e694b7eaec6a15faac8373f981f47f981811              191 Release
 SHA256:
- 071e501077d40786d273d36ec5cbce7e0cc40d561a8580df12962787a3a2c875             1419 Packages
- 3316c44fdcbc4c186dfb29730886de81d60263516eb66cc3b565c72d5d3dcb78              775 Packages.gz
- 8d453691eeae79dbd24968bde7d9af29d2f07c104e34d68281bd318794e3d58f              191 Release
+ 6c6c8b2e4935d59c67315ae63f7184939948a8e8e11df2f222cffead96fcee3e             1416 Packages
+ 1be17f2799df948b521e82fed923285be3bacfac69ac78f56b8f9d9c70a2cde4              772 Packages.gz
+ a88a1aef9939c5fa615e2770552f9fee22e10d6f47a4b6c3e28e3188a6c90dba              191 Release
 SHA512:
- e5754e68fd515594dbdf6345bb0884373cca710e02caf2d315e4a22b528237e2ed1638107a3ef792d3009fbca493f1b0485ee58d4ccbc395ab489e8915a6d852             1419 Packages
- d1cca3f827548a40d01a045ca2ba5210494d1c5896aa073814e1a6b24f4eb62f3e8138da7bdd3ac572df3537db0ba0b64742398ece68c4dc8e59c541968cf323              775 Packages.gz
- d21e05e3d2781c5536039d522aed1e7c55c6e51e14e7a7bd80c6d8916269cd7d4f6a5f04ca255473c146fc208a433f9056f9083e67884799368e54370dc06454              191 Release
+ 2f8b15f5c4aa7d1996ca7db0e0c06fde283822f8e93f5a37ae44d5838c9d820f41d9832eb22f2aa0111a738482cfafed7a0ff5844492b64e6e962bfdd13468f2             1416 Packages
+ a88fc5b61e5d5787b68d6180afaaae0d07e9a413bcc5a124a2393a9114db92051ffb1b3a37a12d732f8a228f983408ee6a333e6e4df833a3039e8b6a435625c4              772 Packages.gz
+ e0fb66ad35742b420d8c40f73eed5bada7171a94396155ffa66506c417f5d10beba37abe54eca9556d23bdfb7d45114ef7be6ae4855d79bbc9f03d15bfdec7d0              191 Release

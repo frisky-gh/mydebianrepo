@@ -27,15 +27,15 @@ Section: net
 Description: Nagios performance data to Influx DB
 
 Package: runlevel4finit
-Version: 0.0.1-1
+Version: 1.0-1
 Architecture: all
 Maintainer: frisky-gh <frisky-.-gh@watao3info>
-Installed-Size: 9
-Filename: ./runlevel4finit_0.0.1-1_all.deb
-Size: 1236
-MD5sum: e9008a945e92aa318def7557a4be6ad2
-SHA1: b076f6c77d75220543f48970f4338d8d713246d5
-SHA256: dae52895635b55dde4d331400adb4674f08f80e9aa2da3f153abad9e25aa4078
+Installed-Size: 11
+Filename: ./runlevel4finit_1.0-1_all.deb
+Size: 1360
+MD5sum: 9aa733981535c66e443038a9347800f9
+SHA1: 3b677c15ac28b9d693ae9f1ee5a8ccc4f4f8a2fb
+SHA256: 621703a0e12c83db0db995ab652ef41e8fb4221cf40c99191c9b785c8a911bd0
 Section: utils
 Priority: optional
 Description: runlevel command for finit environment
