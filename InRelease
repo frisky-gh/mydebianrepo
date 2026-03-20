@@ -4,34 +4,38 @@ Hash: SHA512
 Architectures: all
 Codename: stable
 Components: main
-Date: Fri, 20 Mar 2026 00:39:05 +0000
+Date: Fri, 20 Mar 2026 09:32:45 +0000
 Description: apt repository by frisky-gh
 Label: frisky-gh-repo
 Origin: frisky-gh-repo
 Suite: stable
 MD5Sum:
- 379462ffe3f97126fca04575e488bdde              766 Packages.gz
- c8564876c5738c81c63372693599a3a2              191 Release
+ 18fafbdfa73d2e97f6f0154cbabe7f0e             1419 Packages
+ ef2cd5b94d90683bd985d6b9e54e5de7              775 Packages.gz
+ 1603cbd5baa2a479dab182fccd6cb2bf              191 Release
 SHA1:
- cf53cd2d77506d351ecee5213ef8f5e2325a7f94              766 Packages.gz
- bb6ed62ebfc473171a848fcba1b7001ac7672040              191 Release
+ 912b9daf517e97b8e86f9e73a68d53abfa4c9f3f             1419 Packages
+ 6199728bbf84207ca3a20b1e4f643cef1ebd71a1              775 Packages.gz
+ f1a27d393320f48a705b57119b0d2bbce46e9d06              191 Release
 SHA256:
- e83fb8a93bd1842c2b2595da8522998e970634d061673e7c498b913831846e46              766 Packages.gz
- b49ee21deb0004d616495187a2a25df8edf7d7975a93fb407dd8ee0749537d0b              191 Release
+ 071e501077d40786d273d36ec5cbce7e0cc40d561a8580df12962787a3a2c875             1419 Packages
+ 3316c44fdcbc4c186dfb29730886de81d60263516eb66cc3b565c72d5d3dcb78              775 Packages.gz
+ 8d453691eeae79dbd24968bde7d9af29d2f07c104e34d68281bd318794e3d58f              191 Release
 SHA512:
- 5c5a4e9474affe4dab9a7df5269a5fe7a89c649c519b35fcc0bc9f02434788ec8d03b2910b50201420031b39ad8b8a2973f03db6913d3c687771fb736178735b              766 Packages.gz
- 280f303c034743e0435c984ab3dfb8f77c93b6b257c0d5b36d5881fb5dee9cd9a363a564aa7d333a019b2b34f6ce47689fbfbb5c41e8717d484fdd3042f6d374              191 Release
+ e5754e68fd515594dbdf6345bb0884373cca710e02caf2d315e4a22b528237e2ed1638107a3ef792d3009fbca493f1b0485ee58d4ccbc395ab489e8915a6d852             1419 Packages
+ d1cca3f827548a40d01a045ca2ba5210494d1c5896aa073814e1a6b24f4eb62f3e8138da7bdd3ac572df3537db0ba0b64742398ece68c4dc8e59c541968cf323              775 Packages.gz
+ d21e05e3d2781c5536039d522aed1e7c55c6e51e14e7a7bd80c6d8916269cd7d4f6a5f04ca255473c146fc208a433f9056f9083e67884799368e54370dc06454              191 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEZFpdcxd9zg3m+AC32gSUSQlqSlsFAmm8lzQACgkQ2gSUSQlq
-Slu3nAwArshjR1TzNOmNXlWANqc1tgxp2pOMdG2n10dMODDy1gvlcKoCSTL2T3fS
-qEk2KknURLmttS6HRhLCyZkBdw2dd/vDCcNqiymoB4HwzQV+4XDGsIrUJ+DGrKC3
-SgTCpR6D30YiGwOB8omZfynfMcgQtCwKx70O8hZkr0liQwqi5/DuP5kpJI3MgRce
-TI2nezrmZr3WH98JZ+LtUqoum71h/SRxe8I9uygUe/ATkoQMQVqYppCR4cdXZHCd
-HaLA6esoxqwG+3jCoZF0JOlISDEpoDWAUH61f5ceKlzuYiG8J8O9Wbfh2dejlw+4
-s/gGej0Nbl90CvJ1ouX8otMemDfLJtI06vff2ki2VNu7ZHQb4gDCmFN/tgqdBtVN
-ck5OIzQUqSD2h05MVzcuoXwA+2Vq8oR/yUz6GS9MMrPKEenVuKlom1QEHyxIQDpX
-pSbN7/573NuWSBIRaOG8qsBW2NouW82JsSiYi9ccA6eo+JztJ0Slrt0Wq2eRq/Ke
-4ktWKjCo
-=t8Fx
+iQGzBAEBCgAdFiEEZFpdcxd9zg3m+AC32gSUSQlqSlsFAmm9FEQACgkQ2gSUSQlq
+SltXYAwAo5ff7eIPfLOeOqLPb69ccVWs5MwgoPPhNa8gkHTaZfvbqduhaT/wzhxO
+ocOyhfXBWGDFBD9INE4AIdlaPlaO+1EkOYkKMGduGxn4t3ax9GbdJyod+I8eg2ZM
+IGTOnNsuQfOuD8kIUdrIvaMzGp9iMmv0LsBsv+oa70xLd8NMeVQRV7xyeQoF32fK
+DBEz6m+H0t1GiPqlW7JsXvyWQ6RKi9mDoZ0zxRSvG0ZHYODH/iiQ++dSe3MM1nlX
+8df5SEtMj47uGPVxkHsH2KIayYuFMZl/JNlR9r1rlbm7wBUGz7nmPogQvrbzMS4z
+LSjQRESCnUKwU0MwHsfS9hJ7PV3PBSPSpyi9RSPuQrcK0nGIgSeUDPEfStwUjdFQ
+in7+Qk6eLkFPj17yMLDdr3NmxRmqP9PUnTkB+5ObEXnncmOAtWaUYX44djhv6Qj3
+H+AxyA4mrZIx6VU6YHNLJuCNYABj/BHc5FVTpzzjzjb1ZDarRenk0HDj55y//Dg7
+NoFD6r7Q
+=JDtF
 -----END PGP SIGNATURE-----

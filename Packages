@@ -1,0 +1,43 @@
+Package: grafana-dashboard-helper
+Version: 1.0
+Architecture: amd64
+Maintainer: frisky-gh <frisky-.-gh@watao3.info>
+Installed-Size: 162
+Filename: ./grafana-dashboard-helper_1.0_amd64.deb
+Size: 22196
+MD5sum: 097a748a92b85a9766604fd2f220972a
+SHA1: cd2a1c93e879121e1633111a5dd7ecb0582f3231
+SHA256: 8d3eb59bd6b488a0422234ae912b9bc014866ea8691c902224490fe343a553ec
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
+Package: naemon2influx
+Version: 1.4-2
+Architecture: all
+Maintainer: Andrew Pickin
+Filename: ./naemon2influx-1.4-2.deb
+Size: 13504
+MD5sum: be67e31e20822ac0766def0eb7caceb0
+SHA1: 5313a3e58a364e9f61c0ca73f8c635dc8f3f27e5
+SHA256: cb3dc434e144a541cc8d6d4e0e2a424c8f9abf985d9b2330f89929386a5a1840
+Section: net
+Description: Nagios performance data to Influx DB
+
+Package: runlevel4finit
+Version: 0.0.1-1
+Architecture: all
+Maintainer: frisky-gh <frisky-.-gh@watao3info>
+Installed-Size: 9
+Filename: ./runlevel4finit_0.0.1-1_all.deb
+Size: 1236
+MD5sum: e9008a945e92aa318def7557a4be6ad2
+SHA1: b076f6c77d75220543f48970f4338d8d713246d5
+SHA256: dae52895635b55dde4d331400adb4674f08f80e9aa2da3f153abad9e25aa4078
+Section: utils
+Priority: optional
+Description: runlevel command for finit environment
+ "runlevel" command for finit / tini environment. "runlevel" required from invoke-rc.d script.
+
