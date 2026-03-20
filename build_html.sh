@@ -29,8 +29,7 @@ APT repository hosted on GitHub Pages.
 curl -fsSL https://frisky-gh.github.io/mydebianrepo/frisky-gh-repo.asc |
 sudo gpg --dearmor -o /etc/apt/keyrings/frisky-gh-repo.gpg
 
-echo "deb [signed-by=/etc/apt/keyrings/frisky-gh-repo.gpg] \
-https://frisky-gh.github.io/mydebianrepo stable main" |
+echo "deb [signed-by=/etc/apt/keyrings/frisky-gh-repo.gpg] https://frisky-gh.github.io/mydebianrepo/ ./https://frisky-gh.github.io/mydebianrepo/ ./" |
 sudo tee /etc/apt/sources.list.d/frisky-gh-repo.list
 </pre>
 
