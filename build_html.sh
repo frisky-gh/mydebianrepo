@@ -26,10 +26,10 @@ APT repository hosted on GitHub Pages.
 
 <h2>APT usage</h2>
 <pre>
-curl -fsSL https://frisky-gh.github.io/mydebianrepo/frisky-gh-repo.asc |
-sudo gpg --dearmor -o /etc/apt/keyrings/frisky-gh-repo.gpg
+curl -L -o /etc/apt/keyrings/frisky-gh-repo.gpg \
+	https://frisky-gh.github.io/mydebianrepo/frisky-gh-repo.gpg
 
-echo "deb [signed-by=/etc/apt/keyrings/frisky-gh-repo.gpg] https://frisky-gh.github.io/mydebianrepo/ ./https://frisky-gh.github.io/mydebianrepo/ ./" |
+echo "deb [signed-by=/etc/apt/keyrings/frisky-gh-repo.gpg] https://frisky-gh.github.io/mydebianrepo/ ./" |
 sudo tee /etc/apt/sources.list.d/frisky-gh-repo.list
 </pre>
 
